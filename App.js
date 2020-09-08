@@ -5,7 +5,7 @@
  * @format
  * @flow strict-local
  */
-
+ 
 import React from 'react';
 import {
   SafeAreaView,
@@ -110,5 +110,6 @@ const styles = StyleSheet.create({
     textAlign: 'right',
   },
 });
+
 
 export default App;
